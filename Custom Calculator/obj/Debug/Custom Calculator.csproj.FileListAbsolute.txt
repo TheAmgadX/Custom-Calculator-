@@ -1,0 +1,14 @@
+E:\Programming\C#\C# Basics1\Intro about Controls\Project After FInishing Course #14\Custom Calculator\bin\Debug\Custom Calculator.exe.config
+E:\Programming\C#\C# Basics1\Intro about Controls\Project After FInishing Course #14\Custom Calculator\bin\Debug\Custom Calculator.exe
+E:\Programming\C#\C# Basics1\Intro about Controls\Project After FInishing Course #14\Custom Calculator\bin\Debug\Custom Calculator.pdb
+E:\Programming\C#\C# Basics1\Intro about Controls\Project After FInishing Course #14\Custom Calculator\obj\Debug\Custom Calculator.csproj.AssemblyReference.cache
+E:\Programming\C#\C# Basics1\Intro about Controls\Project After FInishing Course #14\Custom Calculator\obj\Debug\Custom_Calculator.Properties.Resources.resources
+E:\Programming\C#\C# Basics1\Intro about Controls\Project After FInishing Course #14\Custom Calculator\obj\Debug\Custom Calculator.csproj.GenerateResource.cache
+E:\Programming\C#\C# Basics1\Intro about Controls\Project After FInishing Course #14\Custom Calculator\obj\Debug\Custom Calculator.csproj.CoreCompileInputs.cache
+E:\Programming\C#\C# Basics1\Intro about Controls\Project After FInishing Course #14\Custom Calculator\obj\Debug\Custom Calculator.exe
+E:\Programming\C#\C# Basics1\Intro about Controls\Project After FInishing Course #14\Custom Calculator\obj\Debug\Custom Calculator.pdb
+E:\Programming\C#\C# Basics1\Intro about Controls\Project After FInishing Course #14\Custom Calculator\bin\Debug\Custom Calculator Backend class.dll
+E:\Programming\C#\C# Basics1\Intro about Controls\Project After FInishing Course #14\Custom Calculator\bin\Debug\Custom Calculator Backend class.pdb
+E:\Programming\C#\C# Basics1\Intro about Controls\Project After FInishing Course #14\Custom Calculator\obj\Debug\Custom C.1573ABE7.Up2Date
+E:\Programming\C#\C# Basics1\Intro about Controls\Project After FInishing Course #14\Custom Calculator\bin\Debug\Guna.UI.dll
+E:\Programming\C#\C# Basics1\Intro about Controls\Project After FInishing Course #14\Custom Calculator\obj\Debug\Custom_Calculator.frmCalculator.resources
